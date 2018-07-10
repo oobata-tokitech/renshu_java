@@ -1,3 +1,16 @@
+body {
+  background: #efefef; }
 
+#btn {
+  margin: 30px auto 0;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: #ef454a;
+  text-align: center;
+  line-height: 200px;
+  font-size: 42px;
+  color: #FFF;
+  font-weight: bold; }
 
 /*# sourceMappingURL=style.css.map */
